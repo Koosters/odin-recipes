@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  background-color: #fdbb26;
+}
+.headliner {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  text-align: center;
+  margin: 10;
+  padding: 0;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 10;
+  padding: 0;
+}
+
+.listene {
+  display: inline-block;
+}
+
+.img_align {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div {
+  text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin: 10;
+  padding: 0;
+}
